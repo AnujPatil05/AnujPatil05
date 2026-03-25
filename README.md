@@ -52,7 +52,7 @@ I am a passionate software developer focusing on **Java**, **Full Stack Web Apps
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="https://github.com/AnujPatil05/AnujPatil05/blob/main/Resume.pdf" target="_blank">
+  <a href="https://github.com/AnujPatil05/AnujPatil05/blob/main/resume%20(3).pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="View Resume"/>
   </a>
   &nbsp;
